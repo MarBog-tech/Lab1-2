@@ -1,0 +1,12 @@
+/home/lenovo/RiderProjects/Lab1-2/Collections/bin/Debug/net6.0/Collections.deps.json
+/home/lenovo/RiderProjects/Lab1-2/Collections/bin/Debug/net6.0/Collections.dll
+/home/lenovo/RiderProjects/Lab1-2/Collections/bin/Debug/net6.0/ref/Collections.dll
+/home/lenovo/RiderProjects/Lab1-2/Collections/bin/Debug/net6.0/Collections.pdb
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.csproj.AssemblyReference.cache
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.AssemblyInfoInputs.cache
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.AssemblyInfo.cs
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.csproj.CoreCompileInputs.cache
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.dll
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/ref/Collections.dll
+/home/lenovo/RiderProjects/Lab1-2/Collections/obj/Debug/net6.0/Collections.pdb

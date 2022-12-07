@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lenovo/RiderProjects/Lab1-2/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj",
+        "projectName": "Collections",
+        "projectPath": "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj",
+        "packagesPath": "/home/lenovo/.nuget/packages/",
+        "outputPath": "/home/lenovo/RiderProjects/Lab1-2/Collections/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lenovo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lenovo/RiderProjects/Lab1-2/Lab1-2/Lab1-2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lenovo/RiderProjects/Lab1-2/Lab1-2/Lab1-2.csproj",
+        "projectName": "Lab1-2",
+        "projectPath": "/home/lenovo/RiderProjects/Lab1-2/Lab1-2/Lab1-2.csproj",
+        "packagesPath": "/home/lenovo/.nuget/packages/",
+        "outputPath": "/home/lenovo/RiderProjects/Lab1-2/Lab1-2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lenovo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj": {
+                "projectPath": "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lenovo/RiderProjects/Lab1-2/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lenovo/RiderProjects/Lab1-2/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/home/lenovo/RiderProjects/Lab1-2/Test/Test.csproj",
+        "packagesPath": "/home/lenovo/.nuget/packages/",
+        "outputPath": "/home/lenovo/RiderProjects/Lab1-2/Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lenovo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj": {
+                "projectPath": "/home/lenovo/RiderProjects/Lab1-2/Collections/Collections.csproj"
+              },
+              "/home/lenovo/RiderProjects/Lab1-2/Lab1-2/Lab1-2.csproj": {
+                "projectPath": "/home/lenovo/RiderProjects/Lab1-2/Lab1-2/Lab1-2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
